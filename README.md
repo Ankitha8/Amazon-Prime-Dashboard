@@ -128,7 +128,7 @@ The dashboard includes the following key metrics and visuals:
 ## 👩‍💻 Author
 
 **Ankitha D**
-Power BI Developer | Data Analytics Enthusiast
+Data Analytics Enthusiast
 
 ---
 
