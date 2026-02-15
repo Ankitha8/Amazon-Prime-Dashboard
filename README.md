@@ -4,7 +4,7 @@
 
 ## 📝 Project Overview
 
-This project is an interactive **Amazon Prime Video Analytics Dashboard** built using **Power BI** to analyze movies and TV shows available on Prime Video. The dashboard provides insights into content distribution, genres, ratings, countries, and release trends to support data-driven decision making.
+This project is an  **Amazon Prime Video Analytics Dashboard** built using **Power BI** to analyze movies and TV shows available on Prime Video. The dashboard provides insights into content distribution, genres, ratings, countries, and release trends to support data-driven decision making.
 
 ---
 
